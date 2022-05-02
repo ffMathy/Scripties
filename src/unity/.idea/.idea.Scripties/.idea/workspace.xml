@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7688d83-3e9f-4007-bc65-8fa89a455f4b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/Scripties.Core.Tests.csproj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/UnitTest1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/UnitTest1.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/bin.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/bin/Debug.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/bin/Debug/net6.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/bin/Debug/net6.0/ref.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug/net6.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug/net6.0/Scripties.Core.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug/net6.0/Scripties.Core.Tests.AssemblyInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug/net6.0/Scripties.Core.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug/net6.0/Scripties.Core.Tests.AssemblyInfoInputs.cache.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug/net6.0/Scripties.Core.Tests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug/net6.0/Scripties.Core.Tests.GeneratedMSBuildEditorConfig.editorconfig.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug/net6.0/Scripties.Core.Tests.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug/net6.0/Scripties.Core.Tests.assets.cache.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug/net6.0/Scripties.Core.Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug/net6.0/Scripties.Core.Tests.csproj.AssemblyReference.cache.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Debug/net6.0/ref.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Scripties.Core.Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Scripties.Core.Tests.csproj.nuget.dgspec.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Scripties.Core.Tests.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Scripties.Core.Tests.csproj.nuget.g.props.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Scripties.Core.Tests.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/Scripties.Core.Tests.csproj.nuget.g.targets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/project.assets.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/project.nuget.cache.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/project.packagespec.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.Tests/obj/rider.project.restore.info.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core/MonoBehaviour1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core/MonoBehaviour1.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core/Properties.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core/Properties/AssemblyInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core/Scripties.Core.csproj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core/bin.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core/bin/Debug.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core/obj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core/obj/Debug.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core/obj/Debug/Scripties.Core.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripties.Core/obj/Debug/Scripties.Core.csproj.AssemblyReference.cache.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripties.Core.Tests/UnitTest1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripties.Core/MonoBehaviour1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripties.Core/Properties/AssemblyInfo.cs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27HQQOplUF4YAGn732cIECVv4F7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7688d83-3e9f-4007-bc65-8fa89a455f4b" name="Changes" comment="" />
+      <created>1648974518774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648974518774</updated>
+      <workItem from="1648974526769" duration="830000" />
+      <workItem from="1651504245851" duration="251000" />
+      <workItem from="1651504913701" duration="405000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added Level plane with script component.">
+      <created>1648974622553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648974622553</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added gitignore.">
+      <created>1651505106793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651505106793</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added projects.">
+      <created>1651505152345</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651505152345</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added Level plane with script component." />
+    <MESSAGE value="Added gitignore." />
+    <MESSAGE value="Added projects." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added projects." />
+  </component>
+</project>
