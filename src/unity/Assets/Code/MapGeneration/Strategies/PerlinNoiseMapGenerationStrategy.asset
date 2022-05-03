@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbf45e4fee4d078479c3cdf6faf5293e, type: 3}
+  m_Name: PerlinNoiseMapGenerationStrategy
+  m_EditorClassIdentifier: 
+  TileTypes:
+  - Height: 0
+    GroundTile: 0
+  - Height: 0.3
+    GroundTile: 3
+  - Height: 0.55
+    GroundTile: 1
+  - Height: 1
+    GroundTile: 2
+  Octaves: 5
+  Persistance: 0.286
+  Lacunarity: 2.9
+  Scale: 25
+  ShouldApplyRoomGradient: 0
+  Seed: 0
+  Offset: {x: 0, y: 0}
